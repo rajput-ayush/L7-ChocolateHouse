@@ -1,0 +1,10 @@
+# Python Standard Library requirement - sqlite3
+# (included in Python 3.9+)
+
+# Optionally add below if you expand the app
+
+# If you use Flask for a web interface in the future
+# Flask==2.1.1
+
+# Add if you need a JSON response format for APIs
+# Flask-RESTful==0.3.9
